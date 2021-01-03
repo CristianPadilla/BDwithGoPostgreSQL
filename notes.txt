@@ -1,0 +1,3 @@
+//PARA insertar, Exec () o queryRow() si desea obtener datos del registro insertado
+//PARA  consultar queryRow() / query()
+actualizar Exec()
